@@ -1,2 +1,2 @@
 # Geog422-Spring24
-Demo repo for GEOG 422
+This is a demo repo for GEOG 422 spring 2024
